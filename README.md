@@ -1,2 +1,2 @@
 # dusty-plasma-phase-transitions
-Python simulations and theoretical modeling of phase trnasitions in dusty plasma
+Python simulations and theoretical modeling of phase transitions in dusty plasma
